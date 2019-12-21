@@ -1,0 +1,4 @@
+data/aclImdb
+*.gz
+*.bin
+*.DS_Store
